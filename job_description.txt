@@ -1,8 +1,6 @@
-Minimum one to two years of face-to-face customer service experience
-A non-probationary Ontario driver’s licence, Class “G” in good standing. Review our abstract requirements   
-A Grade 12 Ontario Secondary School Diploma (OSSD) or its recognized equivalent. Review our education requirements
-A demonstrated ability to communicate effectively and courteously with the public
-Experience with disability accommodation and accessibility requirements
-The ability to work a flexible schedule that includes various shifts (nights, split shifts, weekends and holidays)
-Large commercial vehicle driving experience is considered an asset
-Professional experience working with persons with disabilities is considered an asset
+A bachelor's degree in computer science, software engineering, or another related field.
+5 to 7 years of software engineering or software development experience, preferably in a related field.
+Hands-on programming experience using relevant languages.
+Experience using relevant tool suites.
+Strong written and verbal communication and interpersonal skills.
+Creative problem-solving skills.

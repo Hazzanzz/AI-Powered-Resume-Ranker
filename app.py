@@ -4,6 +4,7 @@ with these kind of minimal programming with ease, also it is very accessibile wh
 data through intutive interfaces, which enables better decision making 
 """
 
+from dotenv import load_dotenv 
 import streamlit as st
 from PyPDF2 import PdfReader
 from chatgpt_improver import suggest_resume_improvements

@@ -1,10 +1,8 @@
 ﻿import openai
 import os
-from secrets import OPENAI_API_KEY
 import openai
 
-openai.api_key = OPENAI_API_KEY
-
+openai.api_key = os.getenv("ssk-proj-j4Lm88rl9vS8MTWE3dt7iW0kAkJXijMgomJYnRI-JhmUhqqqv1VXpKXu88Tha39ao2E9AgcyfzT3BlbkFJScoVhyOIFCZGWZYpqKbPdiULF1hL7uUz-sADpD4Pd5aVUPalS5X8fNJXuV-OTN-1UVrql5XcoA")
 
 def suggest_resume_improvements(resume_text: str, job_description: str) -> str:
     """
