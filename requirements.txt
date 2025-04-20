@@ -1,0 +1,7 @@
+﻿streamlit
+sentence-transformers
+scikit-learn
+transformers
+PyPDF2
+openai
+yake
