@@ -25,7 +25,10 @@ A smart web app that ranks resumes based on their relevance to job descriptions 
 
 ## 📸 Demo
 
-*Coming soon — insert a screenshot or screen recording here showing the UI and output!*
+![WhatsApp Image 2025-04-20 at 13 41 51_60705889](https://github.com/user-attachments/assets/864a21df-3b78-46cc-a8bf-6d588f75f688)
+![WhatsApp Image 2025-04-20 at 13 41 51_975bb67b](https://github.com/user-attachments/assets/4c6312ab-b144-484b-ba09-cf8b7eed1624)
+
+
 
 ---
 
